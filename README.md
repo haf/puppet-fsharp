@@ -7,6 +7,12 @@ project](https://github.com/haf/fpm-recipes/tree/master/teamcity-server),
 and then install on a [yum
 repository](https://github.com/haf/puppet-yum).
 
+## Usage
+
+```puppet
+include fsharp
+```
+
 ### License
 
 MIT
